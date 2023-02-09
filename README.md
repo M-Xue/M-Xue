@@ -1,23 +1,26 @@
-Hi, my name is Max Xue.
+## About Me 🌟
+Hi, my name is Max Xue. I am currently in my final year of Computer Science at the University of New South Wales. 
 
-I am currently studying Computer Science at the University of New South Wales. 
+I am a fullstack developer and enjoy creating aethsetic user interfaces inspired by interesting things I see from other developers.
 
-I have an interest in full stack development and am currently trying to improve on my frontend web development skills.
+## Technologies 🛠️
 
-Technologies I have experience with include:
-- ReactJS
-- TypeScript
-- NodeJS
-- ExpressJS
-- MongoDB (using the mongoose driver to connect to my NodeJS backend server)
+I am familiar with React.js (and Next.js) and multiple languages such as JavaScript, Java, Python and C#. I am also familiar with SQL (specifically PostgreSQL) and NoSQL such as MongoDB. I have expeirence creating fullstack applications using HTTP endpoints as well as web security.
 
-Technologies I plan to learn in 2022 include: 
-- Java and Java Spring Boot (with help from my object-oriented programming course in term 2)
-- MySQL (with help from my databases university course in term 1)
-- NextJS
-- Gatsby
-- Redux
+### Notable University Courses 📖
 
-I also have an interest in UX/UI design and have previously joined a university program for product design called the Product Design Program held by DigiSoc.
+Course Code | Course | Mark
+-|-|-
+COMP1511 | Programming Fundamentals | 85
+COMP1521 | Computer System Fundamentals | 88
+COMP2521 | Data Structures and Algorithms | 80
+COMP3121 | Algorithms and Programming Tech | 82
+COMP1531 | Software Engineering Fundamentals | 93
+COMP3311 | Database Systems | 96
+COMP3331 | Computer Networks and Applications | 93 
 
-I have been consistently teaching myself frontend development since June 2021 and plan to really polish these skills by the end of 2022 through full stack projects using the MERN stack as well as experiment with other backend options such as Java and MySQL.
+
+## Projects 💻
+
+My personal website: www.m-xue.dev
+
