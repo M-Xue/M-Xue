@@ -24,3 +24,12 @@ COMP3331 | Computer Networks and Applications | 93
 
 My personal website: www.m-xue.dev
 
+Misc UI
+
+- [Dictionary](https://github.com/M-Xue/react-mini-projects/tree/main/debounce-fuzzy-search)
+  - Levinshtein algorithm for fuzzy search
+  - Debouncing
+  - Command K searchbar
+  - Calls dictonary API
+- [Resizable Sidebar](https://github.com/M-Xue/react-mini-projects/tree/main/resizeable-sidebar)
+- [Command K Menu](https://github.com/M-Xue/react-mini-projects/tree/main/command-k-menu/src)
